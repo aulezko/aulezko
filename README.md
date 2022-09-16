@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aulezko
+- 👋 Hi, I’m @aulezko; MD/PhD student at Washington University in St. Louis
 - 👀 I’m interested in human immunology, plasmacytoid dendritic cells and innate lymphoid cells.
 - 🌱 I’m currently learning scRNAseq analysis
 - 💞️ I’m looking to collaborate on epigenetic analyses
