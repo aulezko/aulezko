@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aulezko; MD/PhD student at Washington University in St. Louis
 - 👀 I’m interested in human immunology, in particular plasmacytoid dendritic cells, innate lymphoid cells and R-DC-like cells.
 - 📫 How to reach me: aulezkoantonova@wustl.edu
-
-- 🧬 For the code from our latest study on pDC, see my repository below "HumanpDC"
+- 🧬 You can find the code of our latest study on human pDC in the repository below "HumanpDC"
 <!---
 aulezko/aulezko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
